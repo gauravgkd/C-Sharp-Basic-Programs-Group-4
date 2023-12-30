@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Assignments\Assignment20\Assignment20\bin\Debug\Assignment20.exe.config
+C:\Users\HP\source\repos\Assignments\Assignment20\Assignment20\bin\Debug\Assignment20.exe
+C:\Users\HP\source\repos\Assignments\Assignment20\Assignment20\bin\Debug\Assignment20.pdb
+C:\Users\HP\source\repos\Assignments\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Assignments\Assignment20\Assignment20\obj\Debug\Assignment20.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Assignments\Assignment20\Assignment20\obj\Debug\Assignment20.exe
+C:\Users\HP\source\repos\Assignments\Assignment20\Assignment20\obj\Debug\Assignment20.pdb
